@@ -1,7 +1,7 @@
 # MaladonPlayersHandbook
 A handy DnD-style Guide for players of Maladon in Roll20
 
-Using the following instructions, you can submit suggestions for changes, fixes or improvements to Maladon's Player Handbook.
+Using the following instructions, you can submit suggestions for changes, fixes or improvements to the Maladon's Player Handbook.
 
 Some knowledge of Markdown helps, but it's not mandatory.
 
