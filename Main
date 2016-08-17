@@ -1990,18 +1990,20 @@ because of servicing loans. Your business cannot have a Chattel score higher tha
 
 5) **Successful**: Your business is now the premier business in Haven in your trade and even Nobles are starting to use your services. . You make one roll on the Events table each month with a +5 modifier. Your Chattel score can be +7 or higher. Your base income is 2d100 gp per month +/- events.  
 <div style='margin-top:10px'></div>
-A handy spreadsheet exists intended to facilitate the management of your business. It lists all player business in Maladon and depending on the quality of your business will give show you stats such as your monthly profit rolls, your chattel, etc. You can find it [here](https://docs.google.com/spreadsheets/d/1EZWsyK-Gxi_vwUVBd_urZBw3qqWSWa-o_gulhOdR_lc/edit#gid=0).
+
+A handy spreadsheet exists intended to facilitate the management of your business. It lists all player business in Maladon and depending on the quality of your business will show you stats such as your monthly profit rolls, your chattel, etc. You can find it [here](https://docs.google.com/spreadsheets/d/1EZWsyK-Gxi_vwUVBd_urZBw3qqWSWa-o_gulhOdR_lc/edit#gid=0).
 
 
 
 #### Events
-Every month you operate a business, you roll 1d20 on the Events table as follows (unless your Business Quality says to roll more than once). This roll is modified by modifiers stated above in your Business Quality. The results of this roll modify your monthly income:
-
-1) **Disaster**: Your business is burned down by a rival or is just unlucky and is engulfed in fire. Your premises are destroyed and many workers desert you. You gain no income for 3 months and lose 100 gp rebuilding your business. If you pay this money, lose 1 from your Chattel score and drop one Business Quality (if possible). If you do not pay this money, your business is wound up and you end up owing debts of 2d100 gp. If you cannot pay your debts, your character spends 1 month in debtor’s prison for every 20 gp you owe.
+Every month that you operate a business, you roll 1d20 on the Events table as follows (unless your Business Quality says to roll more than once). This roll is modified by modifiers stated above in your Business Quality. The results of this roll modify your monthly income. If you want to avoid the events where your business is burned down or a local gang threatens it, you can decide to pay 10% of your profit (before rolling) to another gang for protection. 
 
 \page
  <div class='pageNumber auto'></div>
  <div class='footnote'>MISC</div>
+ 
+
+1) **Disaster**: Your business is burned down by a rival or is just unlucky and is engulfed in fire. Your premises are destroyed and many workers desert you. You gain no income for 3 months and lose 100 gp rebuilding your business. If you pay this money, lose 1 from your Chattel score and drop one Business Quality (if possible). If you do not pay this money, your business is wound up and you end up owing debts of 2d100 gp. If you cannot pay your debts, your character spends 1 month in debtor’s prison for every 20 gp you owe.
  
 2) **Order**: You are asked to quickly fulfil an important order. Make a saving throw by rolling 1d20, using your Chattel score as a modifier. The DC is 7; if you make the roll, you increase your income for this month by +1d100 gp. If you fail, you lose 1d20 gp in income.
  
